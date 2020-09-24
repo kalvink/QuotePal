@@ -1,5 +1,4 @@
 # QuotePal
-<<<<<<< Updated upstream
 Get motivational quotes to inspire yourself.
 <br>https://play.google.com/store/apps/details?id=com.kalvinkao.tictactoe
 
