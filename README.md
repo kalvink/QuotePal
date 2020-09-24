@@ -29,5 +29,3 @@ Features:
 ![IMG3](https://lh3.googleusercontent.com/79Mr-eeKSKyaiv5rdx2PV5Vx-T7GveteT5wZHSRTvArq_Zldjv8BNx7Mt2XOjOa17A=w720-h310-rw)
 ![IMG4](https://lh3.googleusercontent.com/1-g2OQKsg8r4SLRc9MgegStP2q8ql_zrwo3TGYIwvfUUBtjGisoCHUQlHo3U_rxOeIE=w720-h310-rw)
 =======
-
->>>>>>> Stashed changes
