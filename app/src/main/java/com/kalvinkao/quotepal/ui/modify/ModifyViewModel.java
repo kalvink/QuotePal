@@ -1,14 +1,14 @@
-package com.kalvinkao.quotepal.ui.notifications;
+package com.kalvinkao.quotepal.ui.modify;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
+public class ModifyViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public ModifyViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is notifications fragment");
     }
